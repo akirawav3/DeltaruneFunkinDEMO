@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="top_chef.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chef down0000" x="0" y="0" width="353" height="578" frameX="0" frameY="-53" frameWidth="353" frameHeight="578"/>
+	<SubTexture name="chef down0001" x="363" y="0" width="353" height="573" frameX="0" frameY="-53" frameWidth="353" frameHeight="578"/>
+	<SubTexture name="chef down0002" x="726" y="0" width="353" height="571" frameX="0" frameY="-54" frameWidth="353" frameHeight="578"/>
+	<SubTexture name="chef down0003" x="1089" y="0" width="353" height="570" frameX="0" frameY="-54" frameWidth="353" frameHeight="578"/>
+	<SubTexture name="chef down0004" x="1452" y="0" width="353" height="570" frameX="0" frameY="-54" frameWidth="353" frameHeight="578"/>
+	<SubTexture name="chef idle0000" x="1815" y="0" width="300" height="700" frameX="-122" frameY="-88" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0001" x="2125" y="0" width="300" height="700" frameX="-122" frameY="-88" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0002" x="2435" y="0" width="300" height="700" frameX="-62" frameY="-88" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0003" x="2745" y="0" width="300" height="700" frameX="-62" frameY="-88" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0004" x="3055" y="0" width="300" height="700" frameX="-62" frameY="-88" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0005" x="3365" y="0" width="300" height="700" frameX="-122" frameY="-88" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0006" x="3675" y="0" width="300" height="700" frameX="-122" frameY="-88" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0007" x="0" y="710" width="496" height="724" frameX="-7" frameY="-50" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0008" x="506" y="710" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0009" x="1020" y="710" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0010" x="1534" y="710" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0011" x="2048" y="710" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0012" x="2562" y="710" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0013" x="3076" y="710" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0014" x="3590" y="710" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0015" x="0" y="1444" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0016" x="514" y="1444" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef idle0017" x="1028" y="1444" width="504" height="718" frameX="0" frameY="-56" frameWidth="504" frameHeight="738"/>
+	<SubTexture name="chef left0000" x="1542" y="1444" width="569" height="622" frameX="-3" frameY="-50" frameWidth="572" frameHeight="626"/>
+	<SubTexture name="chef left0001" x="2121" y="1444" width="568" height="623" frameX="-1" frameY="-52" frameWidth="572" frameHeight="626"/>
+	<SubTexture name="chef left0002" x="2699" y="1444" width="568" height="624" frameX="0" frameY="-52" frameWidth="572" frameHeight="626"/>
+	<SubTexture name="chef left0003" x="3277" y="1444" width="568" height="624" frameX="0" frameY="-52" frameWidth="572" frameHeight="626"/>
+	<SubTexture name="chef right0000" x="0" y="2172" width="545" height="585" frameX="0" frameY="-50" frameWidth="568" frameHeight="585"/>
+	<SubTexture name="chef right0001" x="555" y="2172" width="554" height="585" frameX="-8" frameY="-50" frameWidth="568" frameHeight="585"/>
+	<SubTexture name="chef right0002" x="1119" y="2172" width="557" height="585" frameX="-10" frameY="-50" frameWidth="568" frameHeight="585"/>
+	<SubTexture name="chef right0003" x="1686" y="2172" width="558" height="585" frameX="-10" frameY="-50" frameWidth="568" frameHeight="585"/>
+	<SubTexture name="chef up0000" x="2254" y="2172" width="234" height="745" frameX="-50" frameY="-106" frameWidth="234" frameHeight="753"/>
+	<SubTexture name="chef up0001" x="2498" y="2172" width="234" height="752" frameX="-50" frameY="-101" frameWidth="234" frameHeight="753"/>
+	<SubTexture name="chef up0002" x="2742" y="2172" width="234" height="753" frameX="-50" frameY="-101" frameWidth="234" frameHeight="753"/>
+	<SubTexture name="chef up0003" x="2986" y="2172" width="234" height="753" frameX="-50" frameY="-101" frameWidth="234" frameHeight="753"/>
+</TextureAtlas>

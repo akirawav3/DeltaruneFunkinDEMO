@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="move.png"><SubTexture name="move bg0000" x="0" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="move bg0001" x="1290" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="move bg0002" x="2580" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="move bg0003" x="3870" y="0" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+<SubTexture name="move bg0004" x="0" y="734" width="1290" height="734" frameX="0" frameY="0" frameWidth="1290" frameHeight="734" />
+</TextureAtlas>

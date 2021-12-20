@@ -1,0 +1,76 @@
+:startPlaying:
+:playAnim:walkout
+:setBGPos:211,110
+:setSpecBGPos:190,-24
+:pauseMusic:
+:camFade:BLACK, .25
+:timer:3.5
+:playSound:delta/chomp
+:timer:1.55
+:playSound:delta/alert
+:timer:1
+:stopPlaying:
+:susie:Kris.. Didn't see you there.
+:playAnim:lookup
+:susie:You uh, didn't see that... Right?
+:playAnim:sus
+:sus-smile:Ah, quiet kid huh?
+:startPlaying:
+:playspecAnim:grab
+:timer:3
+:stopPlaying:
+:sus-smile:Hey, Kris.
+:sus-smile:Let me let you in on a little secret.
+:hideSpec:
+:startPlaying:
+:playAnim:hellnaw
+:timer:.35
+:playSound:delta/locker
+:timer:2
+:stopPlaying:
+:sussy:QUIET PEOPLE PISS ME OFF.
+:startPlaying:
+:playMusic:delta/susie
+:timer:2.75
+:stopPlaying:
+:sus-smirk:Now then, little buddy.
+:sus-smirk:I have another question for you.
+:susie:How do you feel...
+:pauseMusic:
+:playAnim:OHNO
+:setTxtSpeed:.1
+:sussy:ABOUT GETTING YOUR FACE RIPPED OFF?
+:setTxtSpeed:.05
+:startPlaying:
+:playAnim:yum
+:timer:1.23
+:playSound:delta/chomp
+:timer:.45
+:stopPlaying:
+:susie:Hm. Actually...
+:playAnim:lolwait
+:sus-smirk:I just got a better idea.
+:startPlaying:
+:playAnim:toss
+:timer:.6
+:playSound:delta/slam
+:timer:2.8
+:stopPlaying:
+:sus-smirk:What's wrong, loser? Never gotten up without mommy before?
+:startPlaying:
+:playAnim:getup
+:timer:.75
+:stopPlaying:
+:sus-smile:Wait.
+:startPlaying:
+:playAnim:LMAOO
+:playSound:delta/suslaugh
+:timer:2
+:stopPlaying:
+:sussy-smile:You're approaching me? While you can barely stand?!
+:sus-smirk2:Man, you really are PATHETIC.
+:playAnim:smile
+:sus-smile:But hey, since I've got nothing better to do.
+:playAnim:WTF
+:sussy:MIGHT AS WELL RIP YOUR THROAT OUT INSTEAD.
+:loadSong:susie

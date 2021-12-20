@@ -1,0 +1,19 @@
+:playAnim:beforeReveal
+:startPlaying:
+:timer:1.5
+:stopPlaying:
+:playAnim:beforeDG1
+:sus-noBox:It looks like someone's up there..
+:playAnim:beforeDG2
+:sus-noBox:Are.. Are they..
+:playAnim:beforeDG3
+:sus-noBox:Are they waving at us..?
+:playAnim:lancerReveal
+:startPlaying:
+:timer:2.25
+:stopPlaying:
+:playAnim:afterDG
+:sus-noBox:SHIT-- KRIS RUN!
+:playAnim:afterReveal
+:startPlaying:
+:timer:1.5

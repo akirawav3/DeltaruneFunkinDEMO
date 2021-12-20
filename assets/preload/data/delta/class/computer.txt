@@ -1,0 +1,5 @@
+:setTextX:-185
+:empty:The computer has a single program open.
+:empty:The title reads: "Deltarune Funkin"
+:setTextX:185
+:al-nervsmile:I-It's a school project!

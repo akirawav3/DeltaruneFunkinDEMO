@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kris.png">
+<SubTexture name="walk_up0000" x="0" y="0" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_up0001" x="118" y="0" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_up0002" x="236" y="0" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_up0003" x="354" y="0" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_down0000" x="0" y="227" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_down0001" x="118" y="227" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_down0002" x="236" y="227" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_down0003" x="354" y="227" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_left0000" x="0" y="454" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_left0001" x="118" y="454" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_left0002" x="236" y="454" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_left0003" x="354" y="454" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_right0000" x="0" y="681" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_right0001" x="118" y="681" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_right0002" x="236" y="681" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+<SubTexture name="walk_right0003" x="354" y="681" width="118" height="227" frameX="0" frameY="0" frameWidth="118" frameHeight="227" />
+</TextureAtlas>

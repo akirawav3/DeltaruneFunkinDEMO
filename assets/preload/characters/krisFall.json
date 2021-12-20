@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "krisFall_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "krisFall_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "krisFall_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "krisFall_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "krisFall_idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLD",
+			"fps": 24,
+			"name": "krisFall_ld",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUD",
+			"fps": 24,
+			"name": "krisFall_ud",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRD",
+			"fps": 24,
+			"name": "krisFall_rd",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLU",
+			"fps": 24,
+			"name": "krisFall_lu",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLR",
+			"fps": 24,
+			"name": "krisFall_lr",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUR",
+			"fps": 24,
+			"name": "krisFall_ur",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/krisFall",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "kris",
+	"flip_x": true,
+	"healthbar_colors": [
+		20,
+		180,
+		220
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

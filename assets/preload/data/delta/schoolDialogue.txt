@@ -1,0 +1,54 @@
+:playAnim:start
+:playMusic:delta/school_theme
+:alphys:Kris!
+:alphys:K-Kris wake up!
+:startPlaying:
+:playAnim:yawn
+:timer:2.3
+:stopPlaying:
+:alphys:Y-You're supposed to be picking partners, but everyone is t-taken...
+:al-nerv:S-So I guess you'll have to be with...
+:al-what:......
+:startPlaying:
+:playAnim:look
+:timer:2.5
+:stopPlaying:
+:stopInputs:
+:al-force:H-hey, has anyone see-
+:pauseMusic:
+:startPlaying:
+:playAnim:slam
+:playSound:delta/slam
+:timer:1.2
+:stopPlaying:
+:setTextSize:24
+:setTextY:10
+:al-smile:s-susie...
+:setTextSize:48
+:setTextY:-10
+:susie:Huh.
+:alphys:S-Susie!! You're partnered with Kris!
+:susie:Great.
+:al-nervsmile:N-Now that that's settled... H-has anyone seen my chalk?
+:al-nervsmile:I c-can't start a lesson without it...
+:startPlaying:
+:playAnim:ask
+:timer:.75
+:stopPlaying:
+:noe:Well Ms. Alphys, S-Susie and I can go get some..!
+:playAnim:smile
+:alphys:G-Good idea!
+:stopInputs:
+:noe-force:R-Really..? O-Okay I--
+:startInputs:
+:al-sweatsmile:K-Kris, Susie... Go get some chalk from the supply closet..!
+:playAnim:oh
+:noe-sad:oh...
+:susie:Great.
+:startPlaying:
+:playAnim:byeLMAO
+:timer:.5
+:playSound:delta/slam
+:timer:.75
+:stopPlaying:
+:al-sweatsmile:K-Kris... G-Good luck!

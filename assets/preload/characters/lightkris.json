@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-135,
+				180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-130,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "phonetake",
+			"indices": [],
+			"name": "phonetake"
+		},
+		{
+			"offsets": [
+				-149,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "phoneoff",
+			"indices": [],
+			"name": "phoneoff"
+		},
+		{
+			"offsets": [
+				-145,
+				178
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "phonestare",
+			"indices": [],
+			"name": "phonestare"
+		},
+		{
+			"offsets": [
+				-145,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "phonelook",
+			"indices": [],
+			"name": "phonelook"
+		},
+		{
+			"offsets": [
+				-149,
+				178
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "phoneup",
+			"loop": true,
+			"name": "phoneup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lightkris",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kris",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		20,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ch1_preview.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="closing0000" x="1805" y="2032" width="1803" height="1014"/>
+	<SubTexture name="closing0001" x="0" y="2032" width="1803" height="1014"/>
+	<SubTexture name="closing0002" x="1805" y="1016" width="1803" height="1014"/>
+	<SubTexture name="closing0003" x="0" y="1016" width="1803" height="1014"/>
+	<SubTexture name="closing0004" x="1805" y="0" width="1803" height="1014"/>
+	<SubTexture name="closing0005" x="0" y="0" width="1803" height="1014"/>
+	<SubTexture name="opening0000" x="0" y="0" width="1803" height="1014"/>
+	<SubTexture name="opening0001" x="1805" y="0" width="1803" height="1014"/>
+	<SubTexture name="opening0002" x="0" y="1016" width="1803" height="1014"/>
+	<SubTexture name="opening0003" x="1805" y="1016" width="1803" height="1014"/>
+	<SubTexture name="opening0004" x="0" y="2032" width="1803" height="1014"/>
+	<SubTexture name="opening0005" x="1805" y="2032" width="1803" height="1014"/>
+</TextureAtlas>

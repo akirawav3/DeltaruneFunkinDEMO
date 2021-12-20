@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "chef idle"
+		},
+		{
+			"offsets": [
+				166,
+				-27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "chef left"
+		},
+		{
+			"offsets": [
+				-10,
+				-77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "chef right"
+		},
+		{
+			"offsets": [
+				6,
+				145
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "chef up"
+		},
+		{
+			"offsets": [
+				0,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "chef down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/top_chef",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "topchef",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
